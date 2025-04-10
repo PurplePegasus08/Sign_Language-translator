@@ -1,4 +1,5 @@
 archive/
 asl_train_normalized.npz/
 
-checkpoint.pth
+checkpoint.pth/
+checkpoint.pth/
