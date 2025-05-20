@@ -33,4 +33,4 @@ The model is trained to classify hand gestures in real time using webcam input, 
 - ⏳ Prediction history to form complete words  
 - ⏳ Special gesture to confirm or end word prediction
 - ⏳ Working on reducing overfitting 
-- 
+  
