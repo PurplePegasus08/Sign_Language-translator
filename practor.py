@@ -1,5 +1,5 @@
 ## prime or not
-"""
+
 number = int(input('enter a number'))
 
 if number <= 1:
@@ -12,7 +12,6 @@ else:
             break
     else:
         print('it prime number')
- """       
 
 import numpy as np
 
